@@ -19,7 +19,7 @@ This repository contains an assignment demonstrating various asynchronous progra
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Labib000/Asynchronous-Programming-Exercises.git
 ```
 
 2. Open any of the HTML files (callbacks.html, promises.html, or async-await.html) in a browser.
